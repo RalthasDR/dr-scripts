@@ -84,11 +84,11 @@ ingredients:
   ranks: 300 #275 #higher
 - name: genich stem
   output: dried genich
-  Crossing:
+  Crossing: 14156
   ranks: 275
 - name: nuloe stem
   output: crushed nuloe
-  Crossing:
+  Crossing: 1510
   ranks: 275
 - name: qun pollen
   output: dried qun
